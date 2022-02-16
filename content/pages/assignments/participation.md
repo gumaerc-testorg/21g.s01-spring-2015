@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 985edc67-81d5-1662-a145-c0b65acb738b
 title: Participation
 uid: 0b839a84-fd4d-3ace-9cda-ab8b8bd1822e

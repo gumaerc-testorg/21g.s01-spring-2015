@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 20c4e4dd-3116-9158-9055-c17213d273d9
 ---
@@ -17,7 +19,7 @@ One intermediate course in Spanish. Class discussions, readings, and audiovisual
 Course Description
 ------------------
 
-The goal of this course is to offer a general introduction to 20th and 21st century literature and cultural production about modern Mexico. Emphasis will be placed on the way intellectuals and artists have presented the changes in Mexico City's urban life, and how these representations question themes and trends in national identity, state control, globalization, and immigration.
+The goal of this course is to offer a general introduction to 20{{< sup "th" >}} and 21{{< sup "st" >}} century literature and cultural production about modern Mexico. Emphasis will be placed on the way intellectuals and artists have presented the changes in Mexico City's urban life, and how these representations question themes and trends in national identity, state control, globalization, and immigration.
 
 Throughout the course, we will introduce a variety of mainly contemporary Mexican writers and visual artists whose works (novels, poems, crónicas, short stories, films, paintings) deal primarily with Mexico City's changing social landscape. In addition, the most recent border crossing artistic expressions will also provoke a comparison between other urban experiences, such as New York, Washington or Tijuana. Through critical discussion and frequent writing assignments, this class will improve student's ability to write clear, coherent and meaningful expository prose.
 

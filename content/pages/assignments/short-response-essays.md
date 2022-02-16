@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 985edc67-81d5-1662-a145-c0b65acb738b
 title: Short Response Essays
 uid: e6b266a8-a16a-21f2-b5d8-ebce8ba2c932

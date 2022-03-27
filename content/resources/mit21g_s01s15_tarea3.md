@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 985edc67-81d5-1662-a145-c0b65acb738b
 resourcetype: Document
 title: "Gu\xEDa de lectura 3"
 uid: 79ab3a32-dfb5-0a7b-d601-48c13a912fe0

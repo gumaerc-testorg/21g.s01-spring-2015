@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 985edc67-81d5-1662-a145-c0b65acb738b
 resourcetype: Document
 title: Instrucciones para el debate 5%
 uid: c597503f-7d7b-6397-427a-c3957c6d362b

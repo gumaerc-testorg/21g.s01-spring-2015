@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 985edc67-81d5-1662-a145-c0b65acb738b
 resourcetype: Document
 title: "Preguntas Gu\xEDa (1)"
 uid: 4d79fe66-c20e-4650-d262-16bed151be22

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section outlines expectations for class attendance and participation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

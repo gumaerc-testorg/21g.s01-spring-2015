@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the homework assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Assignments
 uid: 985edc67-81d5-1662-a145-c0b65acb738b
 ---
 
-The assignments listed below are in addition to reading the assigned texts for each session. See the [Readings]({{< baseurl >}}/pages/readings) section.
+The assignments listed below are in addition to reading the assigned texts for each session. See the {{% resource_link 1ec6264f-d72b-921a-8e20-5b3d256f37bb "Readings" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -27,7 +28,7 @@ TAREA (HOMEWORK)
 Primera
 {{< tdclose >}}
 {{< tdopen >}}
-[Preguntas guía: Semana 1 (PDF)]({{< baseurl >}}/resources/mit21g_s01s15_tarea1)
+{{% resource_link 4d79fe66-c20e-4650-d262-16bed151be22 "Preguntas guía: Semana 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,7 +39,7 @@ Segunda
 {{< tdopen >}}
 
 
-[Preguntas guía: Semana 2 (PDF)]({{< baseurl >}}/resources/mit21g_s01s15_tarea2)
+{{% resource_link 79d4b1b1-5f23-8ec8-b4f6-d1b8afbcdbde "Preguntas guía: Semana 2 (PDF)" %}}
 
 Mira [la colección](http://www.moma.org/collection/artists/4707?locale=en) del museo MOMA sobre José Gudalupe Posada y el video sobre su vida y obra para saber más sobre él.
 
@@ -55,7 +56,7 @@ Tercera
 {{< tdopen >}}
 
 
-[Preguntas guía: Semana 3 (PDF)]({{< baseurl >}}/resources/mit21g_s01s15_tarea3)
+{{% resource_link 79ab3a32-dfb5-0a7b-d601-48c13a912fe0 "Preguntas guía: Semana 3 (PDF)" %}}
 
 Investiga quiénes componen este grupo de pintores mexicanos y selecciona una o dos pinturas de alguno de ellos que te haya parecido interesantes. Imprime o trae la imagen a clase para compartirla con tus compañeros. Toma los datos de la pintura que vas a mostrar a la clase (autor, título, año).
 
@@ -113,7 +114,7 @@ Jorge Castro. _[Tlatelolco Verano del 68](http://www.youtube.com/watch?v=FCRT5MB
 Séptima
 {{< tdclose >}}
 {{< tdopen >}}
-[Instrucciones para el debate (PDF)]({{< baseurl >}}/resources/mit21g_s01s15_debate_prep)
+{{% resource_link c597503f-7d7b-6397-427a-c3957c6d362b "Instrucciones para el debate (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

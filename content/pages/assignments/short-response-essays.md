@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains instructions for the three short response essays
+  required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

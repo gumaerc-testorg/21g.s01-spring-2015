@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains instructions for the first and final drafts of
+  the final essay and the oral presentation required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

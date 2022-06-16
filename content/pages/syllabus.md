@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, required books, films, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -45,7 +47,7 @@ Films
 Evaluation / Grades
 -------------------
 
-Grading is on the basis of frequent relatively small evaluations rather than on one or two major hurdles. See [Assignments]({{< baseurl >}}/pages/assignments) section.
+Grading is on the basis of frequent relatively small evaluations rather than on one or two major hurdles. See {{% resource_link 985edc67-81d5-1662-a145-c0b65acb738b "Assignments" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}

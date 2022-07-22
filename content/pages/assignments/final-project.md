@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains instructions for the first and final drafts of
+  the final essay and the oral presentation required for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 985edc67-81d5-1662-a145-c0b65acb738b
 title: Final Project
 uid: e0422d9c-9f46-d16a-efd9-2157c4446d5c

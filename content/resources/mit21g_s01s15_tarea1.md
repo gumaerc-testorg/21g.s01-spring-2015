@@ -5,6 +5,7 @@ file: /courses/21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Preguntas Gu\xEDa (1)"
 uid: 4d79fe66-c20e-4650-d262-16bed151be22
 ---
 Reading questions for the first week of the course.
-

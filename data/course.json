@@ -41,7 +41,7 @@
     "website": "21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015"
   },
   "course_title": "Modern Mexico: Representations of Mexico City's Urban Life",
-  "course_description": "The goal of this course is to offer a general introduction to 20{{< sup \"th\" >}} and 21{{< sup \"st\" >}} century literature and cultural production about Modern Mexico. Emphasis will be placed on the way intellectuals and artists have presented the changes in Mexico City's urban life, and how these representations question themes and trends in national identity, state control, globalization, and immigration.\n",
+  "course_description": "The goal of this course is to offer a general introduction to 20th and 21st century literature and cultural production about Modern Mexico. Emphasis will be placed on the way intellectuals and artists have presented the changes in Mexico City's urban life, and how these representations question themes and trends in national identity, state control, globalization, and immigration.",
   "department_numbers": [
     "21G"
   ],
@@ -54,6 +54,7 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "feb147ac-9d34-4b9e-8490-1480ebfa3f41",
+  "site_uid": "59fe9f09-4219-43bc-b4e4-b014ac9a41ab",
+  "short_id": "21g.s01-spring-2015",
   "title": "Course Metadata"
 }

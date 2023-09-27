@@ -29,4 +29,3 @@ video_metadata:
   youtube_id: ''
 ---
 Instructions for an in-class debate.
-

@@ -88,7 +88,7 @@ The Revolution Arrives to the Capital
 Mosiváis, Carlos. "Vasconcelos y el nacimiento cultural." In *Historia general de México*. Edited by Vázquez Vera Josefina Zoraida. El Colegio de México, 2007. ISBN: 9789681209698.
 
 {{< tdclose >}}{{< tdopen >}}
-View a Selection of [Paintings](http://www.moma.org/interactives/exhibitions/2011/rivera/intro.php) of the Mexican School of Painting from the Museum of Modern Art.
+ 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -197,8 +197,6 @@ Villoro, Juan. Selection of Texts from *Los once de la tribu: Cronicas*. Aguilar
 
 Listen to the song
 
-Camacho, Juan Jaime Lopez. "[La Chilanga Banda](http://www.metrolyrics.com/chilanga-banda-lyrics-cafe-tacuba.html)." Café Tacuba.
-
 WarnerMusicMexico. "[Café Tacuba - Chilanga Banda (Video Oficial)](https://www.youtube.com/watch?v=bKjn26agAEs&feature=youtu.be)." February 18, 2014. YouTube. Accessed July 28, 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -266,11 +264,7 @@ Yepez, Heriberto. *Cuentos para oír y huir al otro lado*. Varios, 2010. ISBN: 9
 Prado, Ignacio Sanchez. "El Sublime Objeto De La Frontera." In *Tierras de nadie: el norte en la narrative Mexicana contemporánea*. Edited by Viviane Mahieux and Oswaldo Zavala. Educal, 2012. ISBN: 9786075160733.
 
 {{< tdclose >}}{{< tdopen >}}
-
-Watch: Azael Mexico. "[Lindo y Querido de Patricia Riggen](https://vimeo.com/27229241)." 2012. Vimeo. Accessed July 28, 2015.
-
 Céline Virapin. "[La 7th Street y Alvarado - Rodrigo Garcia](https://www.youtube.com/watch?v=5CTMoygNOJQ&feature=youtu.be)." January 2, 2014. YouTube. Accessed July 28, 2015.
-
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
@@ -282,7 +276,7 @@ Border Cities vs. Mexico City
 Monsiváis, Carlos: "[El vigor de la agonía: La ciudad de México en los albores del siglo XXI](http://www.letraslibres.com/revista/convivio/el-vigor-de-la-agonia-la-ciudad-de-mexico-en-los-albores-del-siglo-xxi)."
 
 {{< tdclose >}}{{< tdopen >}}
-View a selection of work by [Gabriel Orozco](http://www.moma.org/interactives/exhibitions/2009/gabrielorozco/).
+View a selection of work by [Gabriel Orozco](https://www.moma.org/artists/4430).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}

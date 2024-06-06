@@ -3,6 +3,7 @@ content_type: resource
 description: Instructions for an in-class debate.
 draft: false
 file: /courses/21g-s01-modern-mexico-representations-of-mexico-citys-urban-life-spring-2015/c597503f7d7b6397427ac3957c6d362b_MIT21G_S01S15_debate_prep.pdf
+file_size: 571785
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -24,9 +24,9 @@ Segunda
 
 {{% resource_link "79d4b1b1-5f23-8ec8-b4f6-d1b8afbcdbde" "Preguntas guía: Semana 2 (PDF)" %}}
 
-Mira [la colección](http://www.moma.org/collection/artists/4707?locale=en) del museo MOMA sobre José Gudalupe Posada y el video sobre su vida y obra para saber más sobre él.
+Mira {{% resource_link "86eb8231-597e-4380-a8b7-8c82b52c26da" "la colección" %}} del museo MOMA sobre José Gudalupe Posada y el video sobre su vida y obra para saber más sobre él.
 
-Gobierno del Estado de Aguascalientes. "[Video José Guadalupe Posada. Version Larga](https://youtube.com/watch?v=sYdynppHjec)." January 15, 2013. YouTube. Accessed on July 28, 2015. 
+Gobierno del Estado de Aguascalientes. "{{% resource_link "9efd44fd-0af3-42e6-bc3d-ea391ebe6e66" "Video José Guadalupe Posada. Version Larga" %}}." January 15, 2013. YouTube. Accessed on July 28, 2015. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Tercera
@@ -48,9 +48,9 @@ Ver la película *los olvidados*.
 Quinta
 {{< tdclose >}}{{< tdopen >}}
 
-Ver el video de el grupo Café Tacuba "[Las batallas](https://www.youtube.com/watch?v=h-nWcL8ET9I)."
+Ver el video de el grupo Café Tacuba "{{% resource_link "53fa8bb4-07db-421a-87d4-a15f45676591" "Las batallas" %}}."
 
-bbbarca. "[Las Batallas Café Tabuca](https://youtube.com/watch?v=h-nWcL8ET9I)." Marcy 29, 2010. YouTube. Accessed July 28, 2015. 
+bbbarca. "{{% resource_link "950c0931-ba75-4c89-81e7-d76f935a3a7f" "Las Batallas Café Tabuca" %}}." Marcy 29, 2010. YouTube. Accessed July 28, 2015. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Sexta
@@ -58,7 +58,7 @@ Sexta
 
 Ver la película *Tlatelolco, verano del 68 (Tlatelolco, Summer of 68)*.
 
-Jorge Castro. [*Tlatelolco Verano del 68*](http://www.youtube.com/watch?v=FCRT5MBN_hE). December 2, 2013. YouTube. Accessed July 28, 2015.
+Jorge Castro. {{% resource_link "1b20f0e4-df5c-4f6f-a5d9-fc53260714e5" "*Tlatelolco Verano del 68*" %}}. December 2, 2013. YouTube. Accessed July 28, 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Séptima
@@ -74,9 +74,9 @@ Novena
 
 Escuchar de José Trigo, "Mi ciudad" y de el grupo Café Tacuba, La chilanga banda.
 
-Julien Mondragón. "[Mi Ciudad - Guadalupe Trigo](https://youtube.com/watch?v=ZNDaDi2x1PA&feature=youtu.be)." January 24, 2011. YouTube. Accessed July 28, 2015. 
+Julien Mondragón. "{{% resource_link "79416857-382c-4e06-a28a-c616c47403a0" "Mi Ciudad - Guadalupe Trigo" %}}." January 24, 2011. YouTube. Accessed July 28, 2015. 
 
-WarnerMusicMexico. "[Café Tacuba - Chilanga Banda (Video Oficial)](https://youtube.com/watch?v=bKjn26agAEs&feature=youtu.be)." February 18, 2014. YouTube. Accessed July 28, 2015. 
+WarnerMusicMexico. "{{% resource_link "6a03a595-e864-4f86-8c3e-955c509ea537" "Café Tacuba - Chilanga Banda (Video Oficial)" %}}." February 18, 2014. YouTube. Accessed July 28, 2015. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Décima
@@ -84,11 +84,11 @@ Décima
 
 Ver 3 videos cortos:
 
-osobabas0804. "[Tienda De Raya](https://www.youtube.com/watch?v=Fz2tIwVoX0w&feature=youtu.be)." February 6, 2012. YouTube. Accessed July 28, 2015. 
+osobabas0804. "{{% resource_link "60d301bb-63da-4c99-b1fc-5150d723455f" "Tienda De Raya" %}}." February 6, 2012. YouTube. Accessed July 28, 2015. 
 
-Esquizofrenia TV. "[Monsi en el Metro. PARTE 1 Así la Libro 2002](https://www.youtube.com/watch?v=Yf5oUdGxfO8&feature=youtu.be)." June 29, 2010. YouTube. Accessed July 28, 2015. 
+Esquizofrenia TV. "{{% resource_link "a03bf195-12fe-48c8-b502-745645ae9fd8" "Monsi en el Metro. PARTE 1 Así la Libro 2002" %}}." June 29, 2010. YouTube. Accessed July 28, 2015. 
 
-———. "[Monsi en el Metro. PARTE 2 Así la Libro 2002](https://www.youtube.com/watch?v=8zCKSiOAPRs&feature=youtu.be)." June 29, 2010. YouTube. Accessed July 28, 2015. 
+———. "{{% resource_link "3a81ad53-58fc-4999-b734-7e07505465ad" "Monsi en el Metro. PARTE 2 Así la Libro 2002" %}}." June 29, 2010. YouTube. Accessed July 28, 2015. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Onceava
@@ -96,6 +96,6 @@ Onceava
 
 Ver los cortometrajes de Patricia Riggen "Lindo y Querido." y de Rodrígo García "La 7th y Alvarado."
 
-Céline Virapin. "[La 7th Street y Alvarado - Rodrigo Garcia](https://www.youtube.com/watch?v=5CTMoygNOJQ&feature=youtu.be)." January 2, 2014. YouTube. Accessed July 28, 2015. 
+Céline Virapin. "{{% resource_link "b8334cc7-5717-40b7-be80-887e75920ffe" "La 7th Street y Alvarado - Rodrigo Garcia" %}}." January 2, 2014. YouTube. Accessed July 28, 2015. 
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

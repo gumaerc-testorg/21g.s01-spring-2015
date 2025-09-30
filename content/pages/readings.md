@@ -37,7 +37,7 @@ A General Cartography of Mexico City's Urban Landscapes and History
 
 {{< tdclose >}}{{< tdopen >}}
 
-Garcia Canclini, Nestor. "What is a City." In *City / Art: The Urban Scene in Latin America*. Edited by Rebecca Biron. Duke University Press Books, 2009. ISBN: 9780822344704. \[Preview with [Google Books](http://books.google.com/books?id=KeMGXu2D_7YC&pg=PA37#v=onepage)\]
+Garcia Canclini, Nestor. "What is a City." In *City / Art: The Urban Scene in Latin America*. Edited by Rebecca Biron. Duke University Press Books, 2009. ISBN: 9780822344704. \[Preview with {{% resource_link "dcf7c7e4-0b68-4e8c-958f-a4d9f267c960" "Google Books" %}}\]
 
 Holmes, Amanda. "Introduction." In *City Fictions: Language, Body, and Spanish American Urban Space*. Bucknell University Press, 2007. ISBN: 9780838756737.
 
@@ -53,16 +53,16 @@ None
 Conceptual Tools to Approach Mexican Urban Culture
 {{< tdclose >}}{{< tdopen >}}
 
-Nájera, Manuel Gutiérrez. "[La novela del Tranvía](http://bibliotecadigital.ilce.edu.mx/sites/fondo2000/vol1/juan-lanas/html/8.html)" and "[Historia de un peso falso](http://cuentosdelatinoamerica.blogspot.com/2011/04/historia-de-un-peso-falso-manuel.html)."
+Nájera, Manuel Gutiérrez. "{{% resource_link "519902af-f750-455a-ab7e-a7fe6246fe47" "La novela del Tranvía" %}}" and "{{% resource_link "9be200c7-deee-4510-8485-93acbbe2b869" "Historia de un peso falso" %}}."
 
 del Campo, Ángel. "El inocente"and "El fusilado." Selección de crónicas. In *Pueblo y Canto*. Edited by Miguel Angel. Universidad Nacional Autónoma de México, 2012. ISBN: 9786070227202.
 
 Zarco, Francisco. "Los transeúntes, El crepúsculo de la ciudad, and México de Noche." In *Ensayo Literario*. CreateSpace Independent Publishing Platform, 2014. ISBN: 9781500889531.
 
-Gretton, Thomas. "[Posada and the 'Popular': Commodities and Social Constructs in Mexico before the Revolution](http://www.jstor.org/stable/1360573)." *Oxford Art Journal* 17, no. 2 (1994): 32–47.
+Gretton, Thomas. "{{% resource_link "04eb0df5-8502-46e1-ab0f-5140014e6375" "Posada and the 'Popular': Commodities and Social Constructs in Mexico before the Revolution" %}}." *Oxford Art Journal* 17, no. 2 (1994): 32–47.
 
 {{< tdclose >}}{{< tdopen >}}
-[Selection of Illustrations](http://www.moma.org/collection/artists/4707?locale=en) by José Gudalupe Posada from the Museum of Modern Art.
+{{% resource_link "86eb8231-597e-4380-a8b7-8c82b52c26da" "Selection of Illustrations" %}} by José Gudalupe Posada from the Museum of Modern Art.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -71,7 +71,7 @@ Gretton, Thomas. "[Posada and the 'Popular': Commodities and Social Constructs i
 
 Octavio, Paz. "De la independencia a la revolución." In *El laberinto de la soledad*. Fondo de Cultura Económica, 1993. ISBN: 9789681659707.
 
-Almanza Huesca, Beatriz. "[La entrada de los ejércitos revolucionarios a la ciudad de México (1913–1915)](http://www.jstor.org/stable/3540852)." *Revista Mexicana de Sociología* 56, no. 3 (1994): 151–72.
+Almanza Huesca, Beatriz. "{{% resource_link "48c3f156-fe0b-4277-ac57-6a8c656ce9cc" "La entrada de los ejércitos revolucionarios a la ciudad de México (1913–1915)" %}}." *Revista Mexicana de Sociología* 56, no. 3 (1994): 151–72.
 
 Mariano, Azuela. "Anuncio en línea desplegada." In *Obras Completas De Mariano Azuela*. Fondo de Cultura Económica, 1996. ISBN: 9789681640934.
 
@@ -111,12 +111,12 @@ None
 Mexico City. The Bitter Taste of Progress (1940–50) (Part1)
 {{< tdclose >}}{{< tdopen >}}
 
-Tuñón, Julia. "[El espacio del desamparo. La Ciudad de México en el cine institucional de la edad de oro y en Los olvidados de Buñuel](http://www.jstor.org/stable/41673280?origin=JSTOR-pdf&seq=1#page_scan_tab_contents)." *Iberoamericana (2001-)*, *Nueva época, Año* 3, no. 11 (2003): 129–144.
+Tuñón, Julia. "{{% resource_link "9cdc332a-19cf-4810-8475-5bad6887a8d2" "El espacio del desamparo. La Ciudad de México en el cine institucional de la edad de oro y en Los olvidados de Buñuel" %}}." *Iberoamericana (2001-)*, *Nueva época, Año* 3, no. 11 (2003): 129–144.
 
 \[Speak\] "Transparency" and "India."
 
 {{< tdclose >}}{{< tdopen >}}
-Watch the film [*Los Olvidados (The Young and Damned)*](http://www.imdb.com/title/tt0042804/). Directed by Luis Buñuel. Black and White, 85 min. Ultramar Films, 1950.
+Watch the film {{% resource_link "4f548c89-3cc1-4768-bc40-bbdf50201341" "*Los Olvidados (The Young and Damned)*" %}}. Directed by Luis Buñuel. Black and White, 85 min. Ultramar Films, 1950.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
@@ -133,13 +133,13 @@ Carlos Fuentes's Comprehensive Gaze of the City
 
 \[Batallas\] Chapters 1–6.
 
-Epple, Juan Armando. "[De Santa a Mariana: La Ciudad De México Como Utopía Traicionada](http://www.jstor.org/stable/40356937)." *Revista Chilena de Literatura* 54 (1999): 31–42.
+Epple, Juan Armando. "{{% resource_link "e3289417-4c98-4d59-9f43-27426afa6583" "De Santa a Mariana: La Ciudad De México Como Utopía Traicionada" %}}." *Revista Chilena de Literatura* 54 (1999): 31–42.
 
 {{< tdclose >}}{{< tdopen >}}
 
 Watch the video de el grupo Café Tacuba "Las batallas."
 
-bbbarca. "[Las Batallas Café Tabuca](https://www.youtube.com/watch?v=h-nWcL8ET9I)." Marcy 29, 2010. YouTube. Accessed July 28, 2015. 
+bbbarca. "{{% resource_link "53fa8bb4-07db-421a-87d4-a15f45676591" "Las Batallas Café Tabuca" %}}." Marcy 29, 2010. YouTube. Accessed July 28, 2015. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -154,12 +154,12 @@ None
 {{< tdclose >}}{{< tdopen >}}
 Strolling Mexico City's Emblematic Urban Spaces and Popular Cultur
 {{< tdclose >}}{{< tdopen >}}
-Monsiváis, Carlos. *Días de Guardar*. Ediciones Era, 1970. ISBN: 9789684111882. \[Preview with [Google Books](http://books.google.com/books?id=FdzRMloT5N8C&pg=PAfrontcover)\]
+Monsiváis, Carlos. *Días de Guardar*. Ediciones Era, 1970. ISBN: 9789684111882. \[Preview with {{% resource_link "bf940243-9f96-464f-9fdb-bff5e7d0bc44" "Google Books" %}}\]
 {{< tdclose >}}{{< tdopen >}}
 
-Watch the movie [*Tlatelolco, Verano del 68 (Tlatelolco, Summer of 68)*](http://www.imdb.com/title/tt1565995/?ref_=fn_al_tt_1). Directed by Carlos Bolado. Color, 68 min. Maiz Producciones, 2013.
+Watch the movie {{% resource_link "3df6616e-450c-4f07-a282-40105fc559b4" "*Tlatelolco, Verano del 68 (Tlatelolco, Summer of 68)*" %}}. Directed by Carlos Bolado. Color, 68 min. Maiz Producciones, 2013.
 
-Jorge Castro. "[Tlatelolco Verano del 68'](https://www.youtube.com/watch?v=FCRT5MBN_hE)." December 2, 2013. YouTube. Accessed July 28, 2015.
+Jorge Castro. "{{% resource_link "68a3d16b-d5ff-474e-ac59-29166c0760ff" "Tlatelolco Verano del 68'" %}}." December 2, 2013. YouTube. Accessed July 28, 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -197,16 +197,16 @@ Villoro, Juan. Selection of Texts from *Los once de la tribu: Cronicas*. Aguilar
 
 Listen to the song
 
-WarnerMusicMexico. "[Café Tacuba - Chilanga Banda (Video Oficial)](https://www.youtube.com/watch?v=bKjn26agAEs&feature=youtu.be)." February 18, 2014. YouTube. Accessed July 28, 2015.
+WarnerMusicMexico. "{{% resource_link "53cc1b37-2712-4c1d-9e73-ccf20593017b" "Café Tacuba - Chilanga Banda (Video Oficial)" %}}." February 18, 2014. YouTube. Accessed July 28, 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
 Crisis, Democratization and Dispersion (Part 1)
 {{< tdclose >}}{{< tdopen >}}
-Martín Barbero, Jesús. "The City. Between Fear and the Media." In *Citizens of Fear: Urban Violence in Latin America*. Edited by Susana Rotker. Rutgers University Press, 2002. ISBN: 9780813530352. \[Preview with [Google Books](http://books.google.com/books?id=4cfKbxAXdrEC&pg=PA25#v=onepage)\]
+Martín Barbero, Jesús. "The City. Between Fear and the Media." In *Citizens of Fear: Urban Violence in Latin America*. Edited by Susana Rotker. Rutgers University Press, 2002. ISBN: 9780813530352. \[Preview with {{% resource_link "1a0b8fd3-cc0a-48af-a0ec-7bf51eb06a5a" "Google Books" %}}\]
 {{< tdclose >}}{{< tdopen >}}
-Watch the film [*Amores Perros (Love's a Bitch)*](http://www.imdb.com/title/tt0245712/?ref_=nv_sr_1). Directed by Alejandro González Iñárritu. Color, 154 min. Altavista Films, 2000.
+Watch the film {{% resource_link "c542d2f8-7815-48f2-955e-b6d356c9b190" "*Amores Perros (Love's a Bitch)*" %}}. Directed by Alejandro González Iñárritu. Color, 154 min. Altavista Films, 2000.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
@@ -225,13 +225,13 @@ Fuentes, Carlos. *Agua quemada*. Punto de Lectura, 2008. ISBN: 9789708120234. \[
 
 Watch short Film Tienda de Raya. Mariana Chenillo.
 
-osobabas0804. "[tienda de raya](https://www.youtube.com/watch?v=Fz2tIwVoX0w&feature=youtu.be)." February 6, 2012. YouTube. Accessed July 28, 2015. 
+osobabas0804. "{{% resource_link "60d301bb-63da-4c99-b1fc-5150d723455f" "tienda de raya" %}}." February 6, 2012. YouTube. Accessed July 28, 2015. 
 
 Watch TV show Monsivais sobre el metro.
 
-Esquizofrenia TV. "[Monsi en el Metro. PARTE 1 Así la libro 2002](https://www.youtube.com/watch?v=Yf5oUdGxfO8&feature=youtu.be)." June 29, 2010. YouTube. Accessed July 28, 2015.
+Esquizofrenia TV. "{{% resource_link "a03bf195-12fe-48c8-b502-745645ae9fd8" "Monsi en el Metro. PARTE 1 Así la libro 2002" %}}." June 29, 2010. YouTube. Accessed July 28, 2015.
 
-Esquizofrenia TV. "[Monsi en el Metro. PARTE 2 Así la libro 2002](https://www.youtube.com/watch?v=8zCKSiOAPRs&feature=youtu.be)." June 29, 2010. YouTube. Accessed July 28, 2015.
+Esquizofrenia TV. "{{% resource_link "3a81ad53-58fc-4999-b734-7e07505465ad" "Monsi en el Metro. PARTE 2 Así la libro 2002" %}}." June 29, 2010. YouTube. Accessed July 28, 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -245,9 +245,9 @@ Bowden, Charles. *Juarez: The Laboratory of our Future*. Aperture, 1998. ISBN: 9
 
 {{< tdclose >}}{{< tdopen >}}
 
-View the artwork of [Eloy Tarcisio](http://www.eloytarcisio.com.mx/), Gustavo Monroy, and [Nahum Zenil](http://www.arteactualmexicano.com/artistas/54-Nahum_B_Ze).
+View the artwork of {{% resource_link "3e96c8e3-787f-43d1-81ec-054f76775b95" "Eloy Tarcisio" %}}, Gustavo Monroy, and {{% resource_link "f80d52d4-eddc-4db2-b88e-4771abe5f6b4" "Nahum Zenil" %}}.
 
-MILENIO. "[Gustavo Monroy en El Milenio Visto por el Arte](https://www.youtube.com/watch?v=t7oFGwML-RU&feature=youtu.be)." June 1, 2013. YouTube. Accessed July 31, 2015.
+MILENIO. "{{% resource_link "1c309e94-7b0a-415c-a478-cb1b3913337c" "Gustavo Monroy en El Milenio Visto por el Arte" %}}." June 1, 2013. YouTube. Accessed July 31, 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -259,12 +259,12 @@ Crosthwaite, Luis Humberto. *Marcela y el Rey al fin Juntos*. CreateSpace Indepe
 
 Yepez, Heriberto. *Cuentos para oír y huir al otro lado*. Varios, 2010. ISBN: 9789707221086. \[Selection of texts\]
 
-———. "[On 'Hybrid.'](http://yalayall.tumblr.com/post/120231884737/heriberto-yepez-on-hybrid)"
+———. "{{% resource_link "93fe94d2-f8bf-4f20-8b43-e04e97eebd7d" "On 'Hybrid.'" %}}"
 
 Prado, Ignacio Sanchez. "El Sublime Objeto De La Frontera." In *Tierras de nadie: el norte en la narrative Mexicana contemporánea*. Edited by Viviane Mahieux and Oswaldo Zavala. Educal, 2012. ISBN: 9786075160733.
 
 {{< tdclose >}}{{< tdopen >}}
-Céline Virapin. "[La 7th Street y Alvarado - Rodrigo Garcia](https://www.youtube.com/watch?v=5CTMoygNOJQ&feature=youtu.be)." January 2, 2014. YouTube. Accessed July 28, 2015.
+Céline Virapin. "{{% resource_link "b8334cc7-5717-40b7-be80-887e75920ffe" "La 7th Street y Alvarado - Rodrigo Garcia" %}}." January 2, 2014. YouTube. Accessed July 28, 2015.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
@@ -273,10 +273,10 @@ Border Cities vs. Mexico City
 
 \[Circuit\] pp. 3–172.
 
-Monsiváis, Carlos: "[El vigor de la agonía: La ciudad de México en los albores del siglo XXI](http://www.letraslibres.com/revista/convivio/el-vigor-de-la-agonia-la-ciudad-de-mexico-en-los-albores-del-siglo-xxi)."
+Monsiváis, Carlos: "{{% resource_link "5567f8e2-1631-4b8e-a5f8-db7e986bf13c" "El vigor de la agonía: La ciudad de México en los albores del siglo XXI" %}}."
 
 {{< tdclose >}}{{< tdopen >}}
-View a selection of work by [Gabriel Orozco](https://www.moma.org/artists/4430).
+View a selection of work by {{% resource_link "759a60b3-6324-4852-8471-00d857d8d028" "Gabriel Orozco" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}

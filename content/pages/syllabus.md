@@ -36,13 +36,13 @@ Required Books
 Films
 -----
 
-{{% resource_link "4f548c89-3cc1-4768-bc40-bbdf50201341" "_Los Olvidados (The Young and Damned)_" %}}. Directed by Luis Buñuel. Black and White, 85 min. Ultramar Films, 1950.
+[_Los Olvidados (The Young and Damned)_](http://www.imdb.com/title/tt0042804/). Directed by Luis Buñuel. Black and White, 85 min. Ultramar Films, 1950.
 
-{{% resource_link "3df6616e-450c-4f07-a282-40105fc559b4" "_Tlatelolco, Verano del 68 (Tlatelolco, Summer of 68)_" %}}. Directed by Carlos Bolado. Color, 68 min. Maiz Producciones, 2013.
+[_Tlatelolco, Verano del 68 (Tlatelolco, Summer of 68)_](http://www.imdb.com/title/tt1565995/?ref_=fn_al_tt_1). Directed by Carlos Bolado. Color, 68 min. Maiz Producciones, 2013.
 
-{{% resource_link "c542d2f8-7815-48f2-955e-b6d356c9b190" "_Amores Perros (Love's a Bitch)_" %}}. Directed by Alejandro González Iñárritu. Color, 154 min. Altavista Films, 2000.
+[_Amores Perros (Love's a Bitch)_](http://www.imdb.com/title/tt0245712/?ref_=nv_sr_1). Directed by Alejandro González Iñárritu. Color, 154 min. Altavista Films, 2000.
 
-{{% resource_link "2daf0f5c-a526-4c04-b536-ce5088541ce4" "_Revolución. 10 cortos (Revolution)_" %}}. Directed by Mariana Chenillo. Color, 105 min. Canana Films, 2010.
+[_Revolución. 10 cortos (Revolution)_](http://www.imdb.com/title/tt1578267/). Directed by Mariana Chenillo. Color, 105 min. Canana Films, 2010.
 
 Evaluation / Grades
 -------------------
